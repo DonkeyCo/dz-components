@@ -1,0 +1,1 @@
+import { AppLabel } from './components/dz-applabel/applabel.js';
